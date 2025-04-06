@@ -3,7 +3,14 @@ nav
     background-color: #eee;
 }
 
+.slider
+{
+    width: 70%;
+    height: 600px;
+    margin: auto;
+}
+
 h1
 {
-    color: #09c;
+    color: #fff;
 }
